@@ -1,4 +1,4 @@
-name: MouseTouchLockbyBRY
+name: Build APK
 
 on:
   push:
