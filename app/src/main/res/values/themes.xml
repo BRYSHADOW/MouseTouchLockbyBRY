@@ -5,7 +5,6 @@
     <style name="Theme.MouseTouchLock" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:windowBackground">@color/bg_app</item>
         <item name="colorSurface">@color/bg_card</item>
-        <item name="colorBackground">@color/bg_app</item>
         <item name="colorOnBackground">@color/text_primary</item>
         <item name="colorOnSurface">@color/text_primary</item>
         <item name="android:textColorPrimary">@color/text_primary</item>
