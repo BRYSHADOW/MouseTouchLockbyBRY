@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Mouse Touch Lock</string>
+    <string name="app_name_display">Mouse\nTouch Lock</string>
+    <string name="app_version">v1.0.0</string>
+
+    <!-- Status labels -->
+    <string name="label_status">Status</string>
+    <string name="label_permissions">Permissions</string>
+    <string name="status_service_running">Floating button active</string>
+    <string name="status_service_stopped">Service stopped</string>
+    <string name="status_touch_locked">Touch locked — Mouse &amp; Keyboard active</string>
+    <string name="status_touch_unlocked">Touch unlocked</string>
+
+    <!-- Toast messages -->
+    <string name="toast_locked">Touch Locked</string>
+    <string name="toast_unlocked">Touch Unlocked</string>
+
+    <!-- Permissions -->
+    <string name="perm_overlay_title">Display over other apps</string>
+    <string name="perm_overlay_desc">Required for the floating button</string>
+    <string name="perm_accessibility_title">Accessibility service (optional)</string>
+    <string name="perm_accessibility_desc">Auto-start when enabled</string>
+    <string name="perm_accessibility_enabled">Enabled</string>
+    <string name="perm_accessibility_hint">Enable in Settings → Accessibility → Mouse Touch Lock</string>
+    <string name="perm_notif_title">Notifications</string>
+    <string name="perm_notif_desc">Show service status in notification bar</string>
+
+    <!-- Buttons -->
+    <string name="btn_grant">Grant</string>
+    <string name="btn_enable">Enable</string>
+    <string name="btn_start_service">Start Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+    <string name="btn_settings">Settings</string>
+    <string name="action_stop">Stop</string>
+
+    <!-- Settings -->
+    <string name="title_settings">Settings</string>
+    <string name="setting_auto_start">Start on boot</string>
+    <string name="setting_auto_start_desc">Launch floating button after device reboot</string>
+    <string name="setting_size">Button size</string>
+    <string name="setting_opacity">Button opacity</string>
+    <string name="setting_position">Button position</string>
+    <string name="btn_reset_position">Reset to default position</string>
+    <string name="pos_default">Default (right edge, center)</string>
+    <string name="settings_note">Drag the floating button on-screen to set a custom position. Changes apply immediately when the service is running.</string>
+
+    <!-- Notification -->
+    <string name="notif_channel_name">Mouse Touch Lock</string>
+    <string name="notif_channel_desc">Service status notification</string>
+    <string name="notif_running">Floating button active — tap to lock</string>
+    <string name="notif_locked">Touch Locked — Mouse &amp; Keyboard active</string>
+
+    <!-- Accessibility service -->
+    <string name="accessibility_service_label">Mouse Touch Lock</string>
+    <string name="accessibility_service_description">Enhances Mouse Touch Lock by auto-starting when enabled. Core touch-block works without this service.</string>
+
+    <!-- Usage hint on main screen -->
+    <string name="usage_hint">TAP button to lock  ·  DOUBLE-TAP to unlock\nDRAG button to reposition</string>
+</resources>
