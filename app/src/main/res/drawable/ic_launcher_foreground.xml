@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Lock body centered in the safe zone (center 72x72 of 108x108) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28c-6.63,0 -12,5.37 -12,12v4h-4c-2.21,0 -4,1.79 -4,4v24c0,2.21 1.79,4 4,4h32c2.21,0 4,-1.79 4,-4V48c0,-2.21 -1.79,-4 -4,-4h-4v-4C66,33.37 60.63,28 54,28zM54,32c4.42,0 8,3.58 8,8v4H46v-4C46,35.58 49.58,32 54,32zM54,62c2.21,0 4,1.79 4,4s-1.79,4 -4,4 -4,-1.79 -4,-4 1.79,-4 4,-4z"/>
+</vector>
