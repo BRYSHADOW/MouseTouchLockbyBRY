@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ── App palette ─────────────────────────────────────────────── -->
+    <color name="bg_app">#0A0A0A</color>
+    <color name="bg_card">#141414</color>
+    <color name="bg_surface">#1E1E1E</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#808080</color>
+    <color name="text_hint">#4D4D4D</color>
+
+    <!-- Borders -->
+    <color name="border">#252525</color>
+    <color name="border_bright">#3C3C3C</color>
+
+    <!-- Button colours -->
+    <color name="btn_primary_text">#000000</color>
+
+    <!-- Permissions -->
+    <color name="perm_granted">#FFFFFF</color>
+    <color name="perm_denied">#FF4444</color>
+
+    <!-- SeekBar -->
+    <color name="seek_progress">#FFFFFF</color>
+    <color name="seek_track">#333333</color>
+
+    <!-- Switch (Material SwitchMaterial) -->
+    <color name="switch_thumb_on">#FFFFFF</color>
+    <color name="switch_thumb_off">#808080</color>
+    <color name="switch_track_on">#555555</color>
+    <color name="switch_track_off">#2A2A2A</color>
+</resources>
