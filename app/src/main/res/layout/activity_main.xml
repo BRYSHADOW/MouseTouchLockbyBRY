@@ -217,6 +217,8 @@
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnGrantAccessibility"
                     style="@style/BtnMini"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:text="@string/btn_enable" />
             </LinearLayout>
 
@@ -277,6 +279,8 @@
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnGrantNotif"
                     style="@style/BtnMini"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:text="@string/btn_grant"
                     android:visibility="gone" />
             </LinearLayout>
