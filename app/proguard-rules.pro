@@ -1,0 +1,5 @@
+-keep class com.mousetouchlock.app.service.** { *; }
+-keep class com.mousetouchlock.app.receiver.** { *; }
+-keep class com.mousetouchlock.app.view.** { *; }
+-keepnames class com.mousetouchlock.app.** { *; }
+-dontwarn kotlin.**
